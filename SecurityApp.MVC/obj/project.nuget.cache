@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "lRVXAmaqF0lygaT5ewuHuZXr3e7oO/oOy0THZhLkrRVZsPuxZ/ZOwnKGkKgK1UdPJP9FXLIMSr6wWxENbZ47bg==",
+  "dgSpecHash": "V4Ytc9xwwMOhkKgyecvtVfq/13uk3l9e2bZazygmyjGHPStdYNCvzg17MHMW21Qozs35A+2KTlr3o21Wbq7dZg==",
   "success": true,
   "projectFilePath": "F:\\Semister 2 2023\\D202 Software Process\\SecurityApp\\SecurityApp.MVC\\SecurityApp.MVC.csproj",
   "expectedPackageFiles": [
@@ -54,10 +54,13 @@
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.sqlserver.server\\1.0.0\\microsoft.sqlserver.server.1.0.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\sendgrid\\9.28.1\\sendgrid.9.28.1.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.4\\sqlitepclraw.bundle_e_sqlite3.2.1.4.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\sqlitepclraw.core\\2.1.4\\sqlitepclraw.core.2.1.4.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.4\\sqlitepclraw.lib.e_sqlite3.2.1.4.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.4\\sqlitepclraw.provider.e_sqlite3.2.1.4.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\starkbank-ecdsa\\1.3.3\\starkbank-ecdsa.1.3.3.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\system.codedom\\4.4.0\\system.codedom.4.4.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\system.configuration.configurationmanager\\6.0.1\\system.configuration.configurationmanager.6.0.1.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
