@@ -11,6 +11,7 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
 [assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-SecurityApp.MVC-006939bf-98db-43f3-b1e6-33f7040672d7")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("SecurityApp.MVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
