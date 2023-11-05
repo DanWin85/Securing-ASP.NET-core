@@ -18,7 +18,7 @@ namespace SecurityApp.API.Controllers
             using (SqlCommand cmd = new SqlCommand(sql, new SqlConnection()))
             {
                 cmd.Parameters.AddWithValue("@userId", userId);
-                //Excute command in here
+             
                 cmd.ExecuteReader();
             }
 
